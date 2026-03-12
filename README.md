@@ -19,13 +19,6 @@ I enjoy transforming raw data into meaningful business insights using Power BI a
 
 ## 📊 Portfolio Projects
 
-### Financial Performance Dashboard
-Analyzed company financial performance using KPIs such as Net Profit Margin, Debt-to-Equity, and ROA.
-
-🔗 https://github.com/sakshiwanjari/PowerBI-Financial-Dashboard
-
----
-
 ### Amazon Sales Performance Dashboard
 Interactive dashboard analyzing sales, profit, and product performance.
 
@@ -37,6 +30,13 @@ Interactive dashboard analyzing sales, profit, and product performance.
 Power BI dashboard analyzing vehicle sales performance, dealer regions, and body style distribution.
 
 🔗 https://github.com/sakshiwanjari/car-sales-powerbi-dashboard
+
+---
+
+### Financial Performance Dashboard
+Analyzed company financial performance using KPIs such as Net Profit Margin, Debt-to-Equity, and ROA.
+
+🔗 https://github.com/sakshiwanjari/PowerBI-Financial-Dashboard
 
 ---
 
